@@ -4,6 +4,8 @@
   "repository": "https://github.com/blakelapierre/base-preact-cycle",
   "version": "0.0.1",
   "dependencies": {
+    "bitcore-lib-cash": "^8.8.2",
+    "lz-string": "^1.4.4",
     "preact-cycle": "^0.5.1"
   },
   "devDependencies": {
